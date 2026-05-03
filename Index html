@@ -1,0 +1,19 @@
+Now I have all I need. Let me make all 5 changes at once:
+
+Now replace the third pricing card (duplicate 5000) with a cleaner single course option, and add logo loading from the uploaded image using base64:
+
+Now add JS to load the actual uploaded logo as base64:
+
+Now convert the actual logo to base64 and embed it:
+
+Also add the logo to the about section glow box and footer:
+
+Also update the glow box background to white since we're showing the actual logo:
+
+Sab changes ho gayi! ✅ Yeh update kiya:
+
+- **📧 Email** — `growthacademy36@gmail.com` set ho gaya
+- **📞 Phone** — `+92 330 8554332` set ho gaya (contact + WhatsApp button dono)
+- **💚 WhatsApp Button** — Chhota (48px) aur sahi corner pe laga, subtle pulse animation ke sath
+- **🖼️ Logo** — Aapka actual uploaded logo use ho raha hai navbar aur about section dono mein — sirf logo, koi tagline nahi
+- **💰 Pricing** — Sirf 2 cards: Rs. 5,000 (single course) aur Rs. 15,000 (Digital Marketing Full)
